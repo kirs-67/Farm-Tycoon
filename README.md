@@ -155,7 +155,7 @@ bukid-tycoon/
 ```
 
 ## Demonstration Video
-docs/bukid-tycoon-demo.mp4
+![DEMO]docs/bukid-tycoon-demo.mp4
 
 ## Credits
 
