@@ -155,7 +155,9 @@ bukid-tycoon/
 ```
 
 ## Demonstration Video
-![DEMO]docs/bukid-tycoon-demo.mp4
+
+https://github.com/user-attachments/assets/0960618a-c4cf-4dbb-943a-1452c2389745
+
 
 ## Credits
 
