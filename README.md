@@ -155,7 +155,10 @@ bukid-tycoon/
 ```
 
 ## Demonstration Video
-[DEMO] (docs/bukid-tycoon-demo.mp4)
+<video width="100%" controls>
+  <source src="docs/bukid-tycoon-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Credits
 
