@@ -81,8 +81,6 @@ Earn the **goal amount of coins within 30 days**:
 | _Trisha Mae Poligrates_ | Interface and asset designer | `ui.py` (screens, controls, feedback), `icons.py` (all pictures), `sounds.py` (sound effects) |
 | _Pepito Sia III_ | QA, documentation and release lead | `tests/`, `tools/`, README, feature map, GitHub release, achievements and rank feature |
 
-(For a 4-person team, the coordinator also takes the QA / documentation / release duties.)
-
 ## Framework and Python version
 
 * **Framework:** Tkinter (included with Python; no `pip install` needed)
