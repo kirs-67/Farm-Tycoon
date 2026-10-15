@@ -1,0 +1,4 @@
+# No external packages are needed.
+# The game uses only the Python standard library (Tkinter, math, random).
+# Tkinter ships with Python on Windows and macOS.
+# On Ubuntu/Debian install it with:  sudo apt install python3-tk
